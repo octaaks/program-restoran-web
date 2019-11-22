@@ -31,7 +31,7 @@
 			<td>
 			<a class="btn btn-info" href="/toko/edit/{{$b->id}}" role="button">EDIT</a>
 			<a class="btn btn-danger" href="/toko/hapus/{{ $b->id }}" role="button">HAPUS</a>
-		</tr>
+		</tr> 
 		@endforeach
   </tbody>
 </table>
