@@ -6,6 +6,7 @@
 
 <head>
 	<title>Daftar Menu</title>
+@extends('header')
 </head>
 <body>
 	<div class="mt-5">
